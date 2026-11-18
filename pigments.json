@@ -1,0 +1,101 @@
+{
+  "pigments": [
+    {
+      "name": "Pyrrole Red",
+      "hex": "#E85D3F"
+    },
+    {
+      "name": "Hansa Yellow",
+      "hex": "#E7C84A"
+    },
+    {
+      "name": "Phthalo Green",
+      "hex": "#4A8B72"
+    },
+    {
+      "name": "Ultramarine Blue",
+      "hex": "#415D9B"
+    },
+    {
+      "name": "Titanium White",
+      "hex": "#F5F2E8"
+    },
+    {
+      "name": "Carbon Black",
+      "hex": "#222222"
+    },
+    {
+      "name": "Lamp Black (Winsor & Newton)",
+      "hex": "#0f0f0f"
+    },
+    {
+      "name":"Perylene Black (Winsor & Newton)",
+      "hex":"#1e3327"
+    },
+    {
+      "name":"Ivory Black (Winsor & Newton)",
+      "hex":"#0b0b0a"
+    },
+    {
+      "name":"Mars Black (Winsor & Newton)",
+      "hex":"#0b0b0a"
+    },
+    {
+      "name":"Charcoal Grey (Winsor & Newton)",
+      "hex":"#0b0b0a"
+    },
+    {
+      "name":"Indigo (Winsor & Newton)",
+      "hex":"#0b1f40"
+    },
+    {
+      "name":"Payne's Grey (Winsor & Newton)",
+      "hex":"#404449"
+    },
+    {
+      "name":"Raw Umber (Winsor & Newton)",
+      "hex":"#523520"
+    },
+    {
+      "name":"Vandyke Brown (Winsor & Newton)",
+      "hex":"#211216"
+    },
+    {
+      "name":"Naples Yellow (Winsor & Newton)",
+      "hex":"#f8d877"
+    },
+    {
+      "name":"Yellow Ochre (Winsor & Newton)",
+      "hex":"#c29134"
+    },
+    {
+      "name":"Burnt Sienna (Winsor & Newton)",
+      "hex":"#bc3626"
+    },
+    {
+      "name":"Indian Red (Winsor & Newton)",
+      "hex":"#81191f"
+    },
+    {
+      "name":"Cadmium Yellow (Winsor & Newton)",
+      "hex":"#ee9a20"
+    },
+    {
+      "name":"Prussian Blue (Winsor & Newton)",
+      "hex":"#233b79"
+    },
+    {
+      "name":"Cerulean Blue (Winsor & Newton)",
+      "hex":"#49a7c9"
+    },
+    {
+      "name":"Colbalt Blue (Winsor & Newton)",
+      "hex":"#0c6db5"
+    },
+    {
+      "name":"Alizarin Crimson (Winsor & Newton)",
+      "hex":"#ac1f25"
+    }
+
+  ]
+}
